@@ -23,8 +23,9 @@ To create a create a power BI report to analyse the following points:
 <br>
 10. Relationship between sales and quantity ordered.
 <br><br>
-## Dashboard screenshots:
-<br>
+
+## Dashboard screenshots:<br>
+
 Summary<br>
 ![Summary](https://github.com/S99C/e-commerce-dashoard/assets/79993232/e740db09-e99c-4138-9411-7d046c3b6162)
 
